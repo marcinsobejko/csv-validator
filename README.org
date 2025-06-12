@@ -1,0 +1,9 @@
+# Example of the CSV
+
+## Example I
+
+Propositions of the modules
+
+## Records combinator
+
+It will be used to combine many raw raws of the CSV to produce record that then can be processed by system
